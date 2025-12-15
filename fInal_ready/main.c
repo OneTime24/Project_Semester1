@@ -142,6 +142,8 @@ int main() {
         
         else if (opt == 3) {
             printf("\n-----------EXITING THE PROGRAM BYE-----------");
+            
+            getch();
             break;
         }
     }

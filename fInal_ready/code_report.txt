@@ -1,0 +1,55 @@
+
+--- NEW CODE ANALYSIS ---
+Files: input.c - logic.c
+  Match: =
+  Match: 0
+  Match: 0
+  Match: =
+  Match: 1
+  Match: 0
+  Match: *s
+  Match: *d
+  Match: =
+  Match: sprintf
+  Match: >
+  Match: d
+  Match: sprintf
+  Match: >
+  Match: =
+  Match: !=
+  Match: 0
+  Match: ||
+  Match: printf
+  Match: %s\n"
+  Match: >
+  Match: <
+  Match: =
+  Match: !=
+  Match: 0
+  Match: ||
+  Match: printf
+  Match: *
+  Match: =
+  Match: =
+  Match: =
+  Match: 0
+  Match: ||
+  Match: =
+  Match: =
+  Match: 1
+  Match: NULL
+  Match: =
+  Match: printf
+  Match: NULL
+  Match: 0
+  Match: =
+  Match: =
+  Match: *
+  Match: +
+  Match: 1
+  Match: =
+  Match: '\0'
+
+Total Matches: 48
+Similarity: 13.13%
+--------------------------------

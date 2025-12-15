@@ -5,6 +5,7 @@
 #include <ctype.h>
 #include <string.h>
 #include <stdlib.h>
+#include <conio.h>
 
 // Global file pointer for the report
 extern FILE *fp_rep;

@@ -52,6 +52,3 @@ It supports multiple file formats and uses **tokenization** and **n-gram–based
 This approach focuses on **logic and structure**, making it more effective for code plagiarism detection.
 
 ---
-
-## 📁 Project Structure
-

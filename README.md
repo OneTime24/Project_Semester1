@@ -9,7 +9,6 @@ A semester project focused on detecting similarity between source code and docum
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 </div>
-
 ---
 
 ## 📌 Overview
